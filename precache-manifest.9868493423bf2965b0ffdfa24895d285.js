@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ed599f6910f6fe61899b9440c892eff6",
+    "revision": "33b2c5bf86c2828c518e100918b860f6",
     "url": "/happy-travel/index.html"
   },
   {
-    "revision": "608054eb24b0c224900a",
+    "revision": "aeba8ff7ba05b65b7ab7",
     "url": "/happy-travel/static/css/main.b3209779.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/happy-travel/static/js/2.1442e098.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "608054eb24b0c224900a",
-    "url": "/happy-travel/static/js/main.60fc7618.chunk.js"
+    "revision": "aeba8ff7ba05b65b7ab7",
+    "url": "/happy-travel/static/js/main.ac084afa.chunk.js"
   },
   {
     "revision": "8498fce5eed1e314b129",

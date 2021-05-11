@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/happy-travel/static/css/main.b3209779.chunk.css",
-    "main.js": "/happy-travel/static/js/main.60fc7618.chunk.js",
-    "main.js.map": "/happy-travel/static/js/main.60fc7618.chunk.js.map",
+    "main.js": "/happy-travel/static/js/main.ac084afa.chunk.js",
+    "main.js.map": "/happy-travel/static/js/main.ac084afa.chunk.js.map",
     "runtime-main.js": "/happy-travel/static/js/runtime-main.11c3867f.js",
     "runtime-main.js.map": "/happy-travel/static/js/runtime-main.11c3867f.js.map",
     "static/js/2.1442e098.chunk.js": "/happy-travel/static/js/2.1442e098.chunk.js",
     "static/js/2.1442e098.chunk.js.map": "/happy-travel/static/js/2.1442e098.chunk.js.map",
     "index.html": "/happy-travel/index.html",
-    "precache-manifest.80e0caf125f8974aae9a50dd0597a188.js": "/happy-travel/precache-manifest.80e0caf125f8974aae9a50dd0597a188.js",
+    "precache-manifest.9868493423bf2965b0ffdfa24895d285.js": "/happy-travel/precache-manifest.9868493423bf2965b0ffdfa24895d285.js",
     "service-worker.js": "/happy-travel/service-worker.js",
     "static/css/main.b3209779.chunk.css.map": "/happy-travel/static/css/main.b3209779.chunk.css.map",
     "static/js/2.1442e098.chunk.js.LICENSE.txt": "/happy-travel/static/js/2.1442e098.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.11c3867f.js",
     "static/js/2.1442e098.chunk.js",
     "static/css/main.b3209779.chunk.css",
-    "static/js/main.60fc7618.chunk.js"
+    "static/js/main.ac084afa.chunk.js"
   ]
 }
